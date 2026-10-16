@@ -23,9 +23,9 @@ My merged contributions to open source, grouped by project.
 Last 90 days of activity, counted by GitHub.
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Contributions&message=53&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="53 Contributions" />
-  <img src="https://img.shields.io/static/v1?label=Commits&message=18&color=8250DF&style=for-the-badge&logo=git&logoColor=white" alt="18 Commits" />
-  <img src="https://img.shields.io/static/v1?label=Commit+repositories&message=6&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="6 Commit repositories" />
+  <img src="https://img.shields.io/static/v1?label=Contributions&message=55&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="55 Contributions" />
+  <img src="https://img.shields.io/static/v1?label=Commits&message=19&color=8250DF&style=for-the-badge&logo=git&logoColor=white" alt="19 Commits" />
+  <img src="https://img.shields.io/static/v1?label=Commit+repositories&message=7&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="7 Commit repositories" />
 </p>
 
 <p align="center">
