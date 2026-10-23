@@ -7,7 +7,7 @@ My merged contributions to open source, grouped by project.
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Merged+PRs&message=5&color=8250DF&style=for-the-badge&logo=git&logoColor=white" alt="5 Merged PRs" />
   <img src="https://img.shields.io/static/v1?label=Projects&message=3&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="3 Projects" />
-  <img src="https://img.shields.io/static/v1?label=Upstream+stars&message=139.8k&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="139.8k Upstream stars" />
+  <img src="https://img.shields.io/static/v1?label=Upstream+stars&message=139.9k&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="139.9k Upstream stars" />
 </p>
 
 | Project | ★ | Language | Merged |
@@ -16,7 +16,7 @@ My merged contributions to open source, grouped by project.
 | <img src="https://avatars.githubusercontent.com/u/104874993?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`agno-agi/agno`](https://github.com/agno-agi/agno)<br><sub>Build, run, and manage agent platforms.</sub> | 42.9k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [1](https://github.com/agno-agi/agno/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
 | <img src="https://avatars.githubusercontent.com/u/7353520?s=48&u=df8a3f06ba8f55ae1967a3e2d5ed882903a4e330&v=4" width="24" height="24" alt="" />&nbsp;[`Kludex/starlette`](https://github.com/Kludex/starlette)<br><sub>The little ASGI framework that shines. 🌟</sub> | 12.7k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [1](https://github.com/Kludex/starlette/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
 
-<sub>Public merged PRs in upstream projects with 1,000+ stars. Stars belong to the projects. Counts link to the merged PRs. Updated daily · 2026-10-22 UTC.</sub>
+<sub>Public merged PRs in upstream projects with 1,000+ stars. Stars belong to the projects. Counts link to the merged PRs. Updated daily · 2026-10-23 UTC.</sub>
 
 ## Contribution graph
 
