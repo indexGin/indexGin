@@ -7,16 +7,16 @@ My merged contributions to open source, grouped by project.
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Merged+PRs&message=6&color=8250DF&style=for-the-badge&logo=git&logoColor=white" alt="6 Merged PRs" />
   <img src="https://img.shields.io/static/v1?label=Projects&message=3&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="3 Projects" />
-  <img src="https://img.shields.io/static/v1?label=Upstream+stars&message=140.2k&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="140.2k Upstream stars" />
+  <img src="https://img.shields.io/static/v1?label=Upstream+stars&message=140.3k&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="140.3k Upstream stars" />
 </p>
 
 | Project | ★ | Language | Merged |
 | :--- | ---: | :--- | ---: |
-| <img src="https://avatars.githubusercontent.com/u/4158466?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`bytedance/deer-flow`](https://github.com/bytedance/deer-flow)<br><sub>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With…</sub> | 84.5k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [4](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
+| <img src="https://avatars.githubusercontent.com/u/4158466?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`bytedance/deer-flow`](https://github.com/bytedance/deer-flow)<br><sub>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With…</sub> | 84.6k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [4](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
 | <img src="https://avatars.githubusercontent.com/u/104874993?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`agno-agi/agno`](https://github.com/agno-agi/agno)<br><sub>The self-improving agent platform</sub> | 42.9k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [1](https://github.com/agno-agi/agno/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
 | <img src="https://avatars.githubusercontent.com/u/7353520?s=48&u=df8a3f06ba8f55ae1967a3e2d5ed882903a4e330&v=4" width="24" height="24" alt="" />&nbsp;[`Kludex/starlette`](https://github.com/Kludex/starlette)<br><sub>The little ASGI framework that shines. 🌟</sub> | 12.7k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [1](https://github.com/Kludex/starlette/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
 
-<sub>Public merged PRs in upstream projects with 1,000+ stars. Stars belong to the projects. Counts link to the merged PRs. Updated daily · 2026-10-28 UTC.</sub>
+<sub>Public merged PRs in upstream projects with 1,000+ stars. Stars belong to the projects. Counts link to the merged PRs. Updated daily · 2026-10-29 UTC.</sub>
 
 ## Contribution graph
 
