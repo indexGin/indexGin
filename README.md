@@ -7,7 +7,7 @@ My merged contributions to open source, grouped by project.
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Merged+PRs&message=20&color=8250DF&style=for-the-badge&logo=git&logoColor=white" alt="20 Merged PRs" />
   <img src="https://img.shields.io/static/v1?label=Projects&message=7&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="7 Projects" />
-  <img src="https://img.shields.io/static/v1?label=Upstream+stars&message=578.7k&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="578.7k Upstream stars" />
+  <img src="https://img.shields.io/static/v1?label=Upstream+stars&message=578.9k&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="578.9k Upstream stars" />
 </p>
 
 | Project | ★ | Language | Merged |
@@ -16,17 +16,17 @@ My merged contributions to open source, grouped by project.
 | <img src="https://avatars.githubusercontent.com/u/127165244?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`langgenius/dify`](https://github.com/langgenius/dify)<br><sub>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one…</sub> | 161.1k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [6](https://github.com/langgenius/dify/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
 | <img src="https://avatars.githubusercontent.com/u/4158466?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`bytedance/deer-flow`](https://github.com/bytedance/deer-flow)<br><sub>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With…</sub> | 85.3k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [4](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
 | <img src="https://avatars.githubusercontent.com/u/104874993?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`agno-agi/agno`](https://github.com/agno-agi/agno)<br><sub>The self-managing agent platform</sub> | 43.2k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [1](https://github.com/agno-agi/agno/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
-| <img src="https://avatars.githubusercontent.com/u/211762292?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`agentscope-ai/agentscope`](https://github.com/agentscope-ai/agentscope)<br><sub>Build and run agents you can see, understand and trust.</sub> | 35.9k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [4](https://github.com/agentscope-ai/agentscope/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
-| <details><summary>… and 2 more</summary><br><img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`QwenLM/qwen-code`](https://github.com/QwenLM/qwen-code)<br><sub>An open-source AI coding agent that lives in your terminal.</sub> · 1 merged<br><img src="https://avatars.githubusercontent.com/u/7353520?s=48&u=df8a3f06ba8f55ae1967a3e2d5ed882903a4e330&v=4" width="24" height="24" alt="" />&nbsp;[`Kludex/starlette`](https://github.com/Kludex/starlette)<br><sub>The little ASGI framework that shines. 🌟</sub> · 1 merged</details> | 42.8k | — | 2 |
+| <img src="https://avatars.githubusercontent.com/u/211762292?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`agentscope-ai/agentscope`](https://github.com/agentscope-ai/agentscope)<br><sub>Build and run agents you can see, understand and trust.</sub> | 36.0k | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3572A5&style=flat-square&logo=python&logoColor=white" alt="Python " /> | [4](https://github.com/agentscope-ai/agentscope/pulls?q=is%3Apr+is%3Amerged+author%3AindexGin) |
+| <details><summary>… and 2 more</summary><br><img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" width="24" height="24" alt="" />&nbsp;[`QwenLM/qwen-code`](https://github.com/QwenLM/qwen-code)<br><sub>An open-source AI coding agent that lives in your terminal.</sub> · 1 merged<br><img src="https://avatars.githubusercontent.com/u/7353520?s=48&u=df8a3f06ba8f55ae1967a3e2d5ed882903a4e330&v=4" width="24" height="24" alt="" />&nbsp;[`Kludex/starlette`](https://github.com/Kludex/starlette)<br><sub>The little ASGI framework that shines. 🌟</sub> · 1 merged</details> | 42.9k | — | 2 |
 
-<sub>Public merged PRs in upstream projects with 1,000+ stars. Stars belong to the projects. Counts link to the merged PRs. Updated daily · 2026-11-13 UTC.</sub>
+<sub>Public merged PRs in upstream projects with 1,000+ stars. Stars belong to the projects. Counts link to the merged PRs. Updated daily · 2026-11-14 UTC.</sub>
 
 ## Contribution graph
 
 Last 90 days of activity, counted by GitHub.
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Contributions&message=281&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="281 Contributions" />
+  <img src="https://img.shields.io/static/v1?label=Contributions&message=287&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="287 Contributions" />
   <img src="https://img.shields.io/static/v1?label=Commits&message=77&color=8250DF&style=for-the-badge&logo=git&logoColor=white" alt="77 Commits" />
   <img src="https://img.shields.io/static/v1?label=Commit+repositories&message=13&color=8250DF&style=for-the-badge&logo=github&logoColor=white" alt="13 Commit repositories" />
 </p>
